@@ -22,5 +22,5 @@ jika anda ingin project anda lebih terstruktur, anda bisa menggunakan struktur p
 ```
 
 > jika anda terbiasa menggunakan satu file notebook.ipynb, anda dapat mereferensi `crisp_dm_emplate.ipynb` 
-untuk project yang membutuhkan framework CRISP-DM. Selengkapnya, anda dapat mempelajari pada [materi ini](../guides/crisp-dm-material.pdf).
+untuk project yang membutuhkan framework CRISP-DM. Selengkapnya, anda dapat mempelajari pada [materi ini](../guides/crisp_dm_material.pdf).
 Sesuaikan dengan kebutuhan project anda yaa.
