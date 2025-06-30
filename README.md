@@ -17,4 +17,4 @@ Repo ini berisi:
 
 ---
 
-Kontribusi sangat diharapkan! Baca SOP terlebih dulu sebelum upload file baru ya gengs.
+Kontribusi sangat diharapkan! Baca SOP terlebih dulu sebelum upload file baru yaa gengs.
