@@ -1,4 +1,4 @@
-# Daftar ebook yang dapat digunakan sebagai bahan belajar temen-temen
+# Daftar ebook yang dapat digunakan sebagai bahan belajar
 
 | Sampul | Judul |
 | ----- | ------ |
