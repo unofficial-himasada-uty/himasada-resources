@@ -1,7 +1,5 @@
 # Laporan
-Folder **/laporan** merupakan folder yang berisikan arsip laporan-laporan seperti laporan capstone project, laporan kerja praktik, laporan tugas akhir, dan lain sebagainya.
-
-Tujuan adanya folder ini adalah untuk menghimpun laporan dari angkatan sebelumnya agar dapat dijadikan **referensi penelitian atau proyek selanjutnya** bagi anggota Himasada.
+Folder **/laporan** merupakan folder yang berisikan arsip laporan-laporan seperti laporan capstone project, laporan kerja praktik, laporan tugas akhir, dan lain sebagainya. Tujuan adanya folder ini adalah untuk menghimpun laporan dari angkatan sebelumnya agar dapat dijadikan **referensi penelitian atau proyek selanjutnya** bagi anggota Himasada.
 
 ## Daftar Laporan
 
