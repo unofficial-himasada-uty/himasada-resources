@@ -1,4 +1,4 @@
-# Templates - Berkas Penting
+# Berkas Penting
 
 Folder **/templates/berkas-penting** berisi **kumpulan template berkas-berkas penting** yang sering digunakan mahasiswa Program Studi Sains Data.  
 
