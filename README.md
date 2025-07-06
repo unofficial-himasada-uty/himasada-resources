@@ -11,9 +11,10 @@ Repo ini berisi:
 
 ## Struktur
 
-- `/templates` → kumpulan template dokumen
-- `/guides` → panduan tools, Git, Python, R, dll.
 - `/SOP` → standar operasional Himasada
+- `/guides` → panduan tools, Git, Python, R, dll.
+- `/laporan` → laporan-laporan terdahulu.
+- `/templates` → kumpulan template dokumen dan kode
 
 ---
 
